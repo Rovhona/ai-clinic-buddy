@@ -1,6 +1,5 @@
 # 🩺 AI Clinic Buddy
 
-**By Team "Not Robots"** — *We build AI that cares for humans.*
 
 ## Overview
 
